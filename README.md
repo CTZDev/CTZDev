@@ -18,7 +18,7 @@
 
 <br>
 
-- :school: I am a `Software Engineer` oriented to frontend, backend and data analysis.
+- :school: I am a `Software Engineer` oriented to frontend and data analysis.
 - :heart: My favorite language: JavaScript
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at  `Leetcode`, `HackerRank`, `AdventJS`.
