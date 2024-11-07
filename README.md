@@ -166,6 +166,11 @@
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
+    width="60px"
+    alt="Visual Studio">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
     width="60px"
     alt="Power BI">
@@ -174,11 +179,6 @@
     src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg"
     width="60px"
     alt="Excel">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"
-    width="60px"
-    alt="Visual Studio">
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
