@@ -18,14 +18,14 @@
 
 <br>
 
-- :school: I am a `Software Engineer` oriented to frontend and data analysis.
+- :school: I am a `Software Engineer` oriented to frontend and data analysis with basic knowledge of backend.
 - :heart: My favorite language: JavaScript
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at  `Leetcode`, `HackerRank`, `AdventJS`.
 - :student: I’m currently learning  `React`, `TypeScript`, `Astro` and `Django`
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
-- :boom: You can visit [my website](https://cutt.ly/Ahmed_Hossam_Website).
+ <!--- :boom: You can visit [my website](https://cutt.ly/Ahmed_Hossam_Website).-->
   
 <br>
 
@@ -69,7 +69,7 @@
   <!-- Frameworks -->
   </br>
    </br>
-  <h3>Frameworks</h3>
+  <h3>Frameworks | Libraries</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
     width="60px"
@@ -86,9 +86,19 @@
     alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"
+    width="60px"
+    alt="Astro">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
     width="60px"
     alt="Bootstrap">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"
+    width="60px"
+    alt="Tailwind CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
