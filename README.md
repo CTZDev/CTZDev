@@ -91,7 +91,7 @@
     alt="Astro">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg"
     width="60px"
     alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -141,7 +141,7 @@
   </br>
   <h3>Tools</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original-wordmark.svg"
     width="60px"
     alt="Git">
     &nbsp;&nbsp;&nbsp;&nbsp; 
