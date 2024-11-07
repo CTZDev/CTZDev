@@ -188,7 +188,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=CTZDev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CTZDev&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTZDev&layout=compact&theme=github_dark"/>|<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=CTZDev&repo=use-local-storage&show_owner=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTZDev&layout=compact&card_width=500&theme=github_dark"/>|<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=CTZDev&repo=use-local-storage&show_owner=true&theme=github_dark" />
 
 <br><br>
 
