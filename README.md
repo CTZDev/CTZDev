@@ -34,7 +34,7 @@
   <h2 align="left">🚀 Stack</h1>
   
   <!-- Languages -->
-  <h3>Languages</h3>
+  <h3>Languages | Pre-processors</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     width="60px"
