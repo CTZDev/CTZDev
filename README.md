@@ -11,7 +11,10 @@
 <a href="https://instagram.com/carlosteranz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlosteranz" height="30" width="40" /></a>
 <a href="https://gitlab.com/CTZDev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Carlos Terán Zavaleta CTZDev" height="30" width="30" /></a>
 </p>
-	
+
+> [!NOTE]
+> Most of my professional work lives in **private repositories** due to client confidentiality. My real activity shows in my contribution graph, and I'm happy to walk you through my role and the solutions I've built in an interview.
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
